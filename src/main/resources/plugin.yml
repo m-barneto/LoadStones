@@ -1,0 +1,6 @@
+name: LoadStones
+version: '${project.version}'
+main: me.mattdokn.loadstones.LoadStones
+api-version: 1.18
+authors: [ Mattdokn ]
+description: Keep chunks loaded with loadstones!
